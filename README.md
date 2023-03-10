@@ -1,7 +1,7 @@
 ### Electronic  Wafer Fault Detection
 **This is an end to end production ready application built for wafer fault detection with training and prediction pipeline**
 
-**Tech used:)**
+**Tech used:**
 
 - Python
 - scikit-learn
@@ -20,8 +20,6 @@
 **Accuracy Metric** 
 
 - AUC Score
-
-
 
 ```
 
