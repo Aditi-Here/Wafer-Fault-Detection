@@ -29,9 +29,7 @@
 To build a classification methodology to predict the quality of electronic wafer on the basis of information gathred by 
 590 sensors that were fitted on the prouction line. 
 
-**Architecture**
 
-![](https://github.com/devil-cyber/asset/raw/main/img1.jpg)
 
 **Data Description**
 [Dataset link](https://github.com/devil-cyber/WaferFaultDetection/blob/master/Training_FileFromDB/InputFile.csv)
